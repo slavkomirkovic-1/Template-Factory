@@ -14,7 +14,7 @@ A modern GUI application for creating new projects from predefined templates. Bu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/template-factory.git
+git clone https://github.com/slavkomirkovic-1/template-factory.git
 cd template-factory
 ```
 
