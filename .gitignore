@@ -1,1 +1,4 @@
 templates.json
+main.spec
+dist/
+build/
